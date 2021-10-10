@@ -1,0 +1,9 @@
+Certifi			Version: 2021.10.8
+Charset-normalizer	Version: 2.0.6
+Idna			version: 3.2
+Pip			version: 21.2.4
+Requests		version: 2.26.0
+Setuptools		version: 58.2.0
+Tabulate		version: 0.8.9
+Urllib3			version: 1.26.7
+
